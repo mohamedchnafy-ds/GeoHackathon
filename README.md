@@ -20,13 +20,7 @@ The project utilizes a dataset combining information from various sources:
 
 ## Methodology
 
-Several machine learning approaches are explored, including:
-- Supervised learning for geothermal favorability mapping and resource estimation
-- Unsupervised learning for data segmentation and pattern recognition 
-- Reinforcement learning for production optimization
-- Deep learning for feature extraction and end-to-end modeling
-
-The ML pipeline includes data preprocessing, feature engineering, model training/validation, and performance assessment. Popular Python libraries such as Scikit-learn, TensorFlow and PyTorch are used.
+in preparation
 
 ## Repository Structure
 
