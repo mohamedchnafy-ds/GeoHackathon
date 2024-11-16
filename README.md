@@ -22,7 +22,7 @@ The project utilizes a dataset combining information from various sources:
 
 in preparation
 
-## Repository Structure
+## Repository Struct
 
 - `data/`: Input datasets and data preprocessing scripts
 -
